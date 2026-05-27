@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay56789
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Next.Js, React, Django
+- 🌱 I’m currently learning DevOps, React, Django
 - 💞️ I’m looking to collaborate on web projects
 - 📫 akshaybhisikar99@gmail.com
 
